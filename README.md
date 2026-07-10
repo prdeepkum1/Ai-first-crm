@@ -1,12 +1,12 @@
-# 🔗 AI First CRM
+# 🏥 AI First CRM
 
 An AI-powered Customer Relationship Management (CRM) system built for Medical Representatives (MRs) to manage doctor interactions, reminders, and AI-assisted conversations.
 
 ---
 
-# 🔗 Features
+# 📌 Features
 
-## 🔗 Dashboard
+## 📊 Dashboard
 - Total Doctors
 - Total Hospitals
 - Total Interactions
@@ -16,7 +16,7 @@ An AI-powered Customer Relationship Management (CRM) system built for Medical Re
 
 ---
 
-## 🔗 Interaction Management
+## 👨‍⚕️ Interaction Management
 
 - Add New Interaction
 - Update Interaction
@@ -27,7 +27,7 @@ An AI-powered Customer Relationship Management (CRM) system built for Medical Re
 
 ---
 
-## 🔗 AI CRM Assistant
+## 🤖 AI CRM Assistant
 
 - AI Chat Interface
 - Instant Responses
@@ -35,7 +35,7 @@ An AI-powered Customer Relationship Management (CRM) system built for Medical Re
 
 ---
 
-## 🔗 Reminder Module
+## ⏰ Reminder Module
 
 - View Reminders
 - Follow-up Tracking
@@ -43,7 +43,7 @@ An AI-powered Customer Relationship Management (CRM) system built for Medical Re
 
 ---
 
-# 🔗 Tech Stack
+# 🛠 Tech Stack
 
 ## Frontend
 
@@ -68,7 +68,7 @@ An AI-powered Customer Relationship Management (CRM) system built for Medical Re
 
 ---
 
-# 🔗 Project Structure
+# 📂 Project Structure
 
 ```
 AI-FIRST-CRM
@@ -157,7 +157,7 @@ AI-FIRST-CRM
 
 ---
 
-# 🔗 Installation
+# ⚙️ Installation
 
 ## Clone Repository
 
@@ -171,7 +171,7 @@ cd ai-first-crm
 
 ---
 
-# 🔗 Frontend Setup
+# 💻 Frontend Setup
 
 ```bash
 cd frontend
@@ -197,7 +197,7 @@ http://localhost:5173
 
 ---
 
-# 🔗 Backend Setup
+# ⚙️ Backend Setup
 
 ```bash
 cd backend
@@ -280,8 +280,34 @@ DELETE /reminders/{id}
 
 ---
 
+# 📸 Screenshots
 
-# 🔗 Future Improvements
+## Dashboard
+
+![image_alt](https://github.com/prdeepkum1/Ai-first-crm/blob/main/Screenshot%202026-07-10%20155311.png?raw=true)
+
+
+---
+
+## AI Chat
+
+![image](https://github.com/prdeepkum1/Ai-first-crm/blob/main/Screenshot%202026-07-10%20160202.png?raw=true)
+
+---
+
+## Interaction History
+
+![image](https://github.com/prdeepkum1/Ai-first-crm/blob/main/Screenshot%202026-07-10%20155922.png?raw=true)
+
+---
+
+## Reminder Page
+
+![image_alt](https://github.com/prdeepkum1/Ai-first-crm/blob/main/Screenshot%202026-07-10%20160311.png?raw=true)
+
+---
+
+# 🔮 Future Improvements
 
 - JWT Authentication
 - Doctor Management Module
@@ -296,6 +322,6 @@ DELETE /reminders/{id}
 ---
 
 
-# 🔗 License
+# 📄 License
 
 This project is created for learning and educational purposes.
