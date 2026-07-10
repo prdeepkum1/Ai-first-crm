@@ -306,22 +306,3 @@ DELETE /reminders/{id}
 ![image_alt](https://github.com/prdeepkum1/Ai-first-crm/blob/main/Screenshot%202026-07-10%20160311.png?raw=true)
 
 ---
-
-# 🔗 Future Improvements
-
-- JWT Authentication
-- Doctor Management Module
-- AI powered summaries
-- AI Reminder Suggestions
-- Email Notifications
-- Search & Filters
-- Pagination
-- Export PDF / Excel
-- Deployment (Vercel + Render)
-
----
-
-
-# 🔗 License
-
-This project is created for learning and educational purposes.
